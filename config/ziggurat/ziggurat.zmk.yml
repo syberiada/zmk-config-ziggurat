@@ -1,0 +1,11 @@
+file_format: "1"
+id: ziggurat
+name: Ziggurat
+type: shield
+url: https://github.com/syberiada/zmk-config-ziggurat
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - ziggurat_left
+  - ziggurat_right
