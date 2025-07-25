@@ -23,5 +23,5 @@ include:
     shield: ziggurat_left
   - board: nice_nano_v2
     shield: ziggurat_right
-  - board: nice_nano_v2
-    shield: settings_reset
+#  - board: nice_nano_v2
+#    shield: settings_reset
